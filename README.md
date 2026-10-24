@@ -37,6 +37,10 @@ QR-Code-Generator/
 └── qr-generator-preview.png
 ```
 
+## 🚀 Live Demo
+
+[Click here to use the QR Code Generator](https://jagadees509.github.io/QR-Code-Generator/)
+
 ## Purpose
 
 This project demonstrates basic frontend development skills, JavaScript DOM manipulation, and the use of a QR code library.
